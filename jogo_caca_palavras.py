@@ -68,7 +68,7 @@ class Solution:
 
         return sol
 
-    def cria_jogo(palavras: List[str], tamanho_grade: int) -> List[List[str]]:
+def cria_jogo(palavras: List[str], tamanho_grade: int) -> List[List[str]]:
         # Criar uma matriz quadrada de tamanho 'tamanho_grade' por 'tamanho_grade' com letras aleatórias
         grade = [[random.choice('abcdefghijklmnopqrstuvwxyz') for _ in range(tamanho_grade)] for _ in
                 range(tamanho_grade)]
