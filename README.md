@@ -35,3 +35,8 @@ python3 jogo_caca_palavras.py
 
 ## Uso 
 Após a execução do jogo, o jogador deve incluir as palavras que ele quer separadas com vírgula e após incluir a quantidade do tamanho da grade que ele deseja. Após isso, apenas clique no botão gerar jogo que irá gerar a matriz com todas as palavras informadas pelo usuário na matriz.
+
+## Vìdeo
+
+https://github.com/projeto-de-algoritmos/Grafos1_Caca-Palavras/assets/80906504/dafd3da2-a666-4f12-8a3c-ac3bbdd60414
+
